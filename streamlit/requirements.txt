@@ -1,0 +1,8 @@
+streamlit
+pillow
+requests
+streamlit-option-menu
+google-cloud-storage
+PyPDF2
+google-cloud-aiplatform
+vertexai
